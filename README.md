@@ -1,9 +1,26 @@
-- 👋 Hi, I’m @Axl044
-- 👀 I’m interested in Bmx 
-- 🌱 I’m currently learning computer science in KU Leuven
-- 📫 How to reach me: axlquirijnen@gmail.com
-
-<!---
-Axl044/Axl044 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+$ neofetch
+                   .~vVeZNgQBBBQQg9Ze1v~.                   
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 axl044@axl044.home
+           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -------------------
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           Uptime: 18 years
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Languages: Python, C#, Java, C...
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       OS: Windows 11
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Yen_      P@@@@@@@@0.      Shell: PS + BASH (WSL)
+  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editor: VSCode, Pycharm
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: Belgium
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
+a@@@@@@@@@@2                                    v@@@@@@@@@@;    
+#@@@@@@@@@@_                                     @@@@@@@@@@y   Contact information
+@@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Discord: Axl644
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Youtube: Axl Quirijnen
+~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    Instagram: quirijnenaxl
+ ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     
+   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
+    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       
+      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         
+        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             
+              "Lf8@@@@v              q@@@#Qa?:                 
+                  -!v|`              _?v!`                     
